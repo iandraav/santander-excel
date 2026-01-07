@@ -12,8 +12,7 @@ A planilha calcula automaticamente o crescimento do capital com base em aportes 
 
 ## 📷 Visualização do Projeto
 
-![Preview do Simulador](NOME_DA_SUA_IMAGEM.png)
-*(Substitua "NOME_DA_SUA_IMAGEM.png" pelo nome exato do arquivo de print que você subiu)*
+![Preview do Simulador](imagem_2026-01-07_122010484.png)
 
 ## 🚀 Funcionalidades
 * **Entrada de Parâmetros:** Campos personalizáveis para Valor Inicial, Aporte Mensal, Taxa de Juros (Yield) e Tempo de Investimento.
@@ -36,4 +35,4 @@ O projeto foi desenvolvido utilizando as seguintes lógicas do Excel:
 3.  Visualize os resultados automaticamente no Dashboard e no Gráfico.
 
 ---
-**Desenvolvido por [Seu Nome]** 🚀
+**Desenvolvido por Iandra** 🚀
